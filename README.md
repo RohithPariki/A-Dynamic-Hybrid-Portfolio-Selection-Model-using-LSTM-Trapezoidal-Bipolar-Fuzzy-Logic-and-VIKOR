@@ -73,9 +73,6 @@ jupyter notebook fuzzy_vikor.ipynb
 | A2          |          0.48 |          0.51 |          0.49 |   2  |
 | A3          |          0.55 |          0.58 |          0.56 |   3  |
 
-<p align="center">
-  <img src="example_output.png" alt="Example Output" width="500"/>
-</p>
 
 ---
 
