@@ -1,0 +1,19 @@
+# Core scientific and data libraries
+numpy
+pandas
+scikit-learn
+openpyxl
+tqdm
+requests
+lxml
+matplotlib
+scipy
+
+# Finance data
+yfinance
+
+# Deep learning (for LSTM forecasting)
+tensorflow==2.*
+
+# System utilities
+jsonlib-python3
