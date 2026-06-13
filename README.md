@@ -33,7 +33,8 @@ It demonstrates how to evaluate, compare, and rank decision alternatives under u
 ## ⚙️ Installation & Usage
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/fuzzy-decision-model.git
+git clone https://github.com/RohithPariki/A-Dynamic-Hybrid-Portfolio-Selection-Model-using-LSTM-Trapezoidal-Bipolar-Fuzzy-Logic-and-VIKOR.git
+
 cd fuzzy-decision-model
 ````
 
