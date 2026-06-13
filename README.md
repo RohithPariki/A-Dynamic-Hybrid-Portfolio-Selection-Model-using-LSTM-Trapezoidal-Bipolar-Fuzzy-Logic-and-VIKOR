@@ -1,8 +1,3 @@
-Got it ✅ — here’s a **complete, professional `README.md`** you can copy directly into your GitHub repo.
-(It’s styled for your Python + Jupyter fuzzy decision model project and already looks great on GitHub.)
-
----
-
 ````markdown
 # 🧠 Fuzzy Multi-Criteria Decision-Making using the VIKOR Method
 
